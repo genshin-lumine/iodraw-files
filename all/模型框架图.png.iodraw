@@ -46,9 +46,6 @@
         <mxCell id="3wvyI16B3_BHBn8VSDEG-39" value="Three-S" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;fontColor=#000000;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="710" y="160" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3wvyI16B3_BHBn8VSDEG-40" value="Inter-Group Aggregation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontColor=#000000;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="700" y="360" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="3wvyI16B3_BHBn8VSDEG-41" value="Intra-Group Aggregation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontColor=#000000;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="420" y="600" width="70" height="30" as="geometry" />
         </mxCell>
@@ -154,6 +151,9 @@
           <mxGeometry x="0.1603" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3wvyI16B3_BHBn8VSDEG-40" value="Inter-Group Aggregation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontColor=#000000;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="700" y="360" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3wvyI16B3_BHBn8VSDEG-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3wvyI16B3_BHBn8VSDEG-91" target="3wvyI16B3_BHBn8VSDEG-92">
           <mxGeometry relative="1" as="geometry" />
@@ -272,7 +272,7 @@
           <mxGeometry x="630" y="395" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3wvyI16B3_BHBn8VSDEG-142" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="640" y="395" width="150" height="365" as="geometry" />
+          <mxGeometry x="650" y="385" width="150" height="365" as="geometry" />
         </mxCell>
         <mxCell id="3wvyI16B3_BHBn8VSDEG-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3wvyI16B3_BHBn8VSDEG-142">
           <mxGeometry x="-110" y="25" width="260" height="410" as="geometry" />
