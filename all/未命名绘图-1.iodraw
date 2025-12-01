@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3wvyI16B3_BHBn8VSDEG-1" value="$$\quad G=(v,\varepsilon,R,\varphi)$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="200" width="150" height="60" as="geometry" />
+        <mxCell id="3wvyI16B3_BHBn8VSDEG-1" value="$$\quad G=(v,\varepsilon,R,\varphi)$$" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
