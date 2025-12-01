@@ -1,0 +1,218 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="r_bGFcskkVdNmyydXzSZ">
+    <mxGraphModel dx="1562" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VtzPuP1h51KJdhY747CV-1" value="最终成果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="381" y="2450" width="326" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-2" value="第四步: 训练、验证与优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="118" y="1560" width="632" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-3" value="第三步: 构建模型B (实用模型)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="508" y="894" width="296" height="616" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-4" value="第二步: 构建模型A (黄金标准)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="84" y="675" width="404" height="835" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-5" value="第一步: 数据源与提取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="20" width="667" height="605" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-6" value="风廓线雷达原始数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="441" y="45" width="241" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-7" value="微波辐射计原始数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="115" y="395" width="243" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-8" value="风廓线雷达多模式数据处理" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="465" y="143" width="193" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-9" value="拼接低模(高分辨率)与高模(高探测范围)数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="435" y="386" width="254" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-10" value="提取干净的风场数据 (u, v, w, 高度, 时间)" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="461" y="502" width="201" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-11" value="提取温湿度廓线 (温度T, 湿度RH, 高度, 时间)" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="146" y="503" width="182" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-12" value="数据时空对齐" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="175" y="700" width="144" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-13" value="计算模型A: 物理诊断模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="127" y="919" width="240" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-14" value="输入: 风场 + 温度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="151" y="1017" width="192" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-15" value="核心方法: 计算理查逊数(Ri)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="119" y="1160" width="256" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-16" value="输出: 高精度湍流强度&#39;真值&#39; y &#xa; (作为模型B的训练标签)" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1318" width="213" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-17" value="模型B的特征工程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="565" y="919" width="181" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-18" value="输入: 仅风场数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="543" y="1026" width="226" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-19" value="提取/计算特征 X:&#xa;- 垂直风切变&#xa;- 湍流动能(TKE)&#xa;- 时空统计量等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="554" y="1133" width="204" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-20" value="输出: 用于训练的特征集 X" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="556" y="1285" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-21" value="模型B的训练与验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1585" width="185" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-22" value="训练机器学习模型&#xa;(如XGBoost, 神经网络等)&#xa;输入: 特征X, 目标: &#39;真值&#39; y" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="286" y="1820" width="253" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-23" value="验证模型B性能&#xa;(与模型A结果对比)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="1971" width="265" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-24" value="优化模型B&#xa;(调整特征/模型参数)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="153" y="2309" width="258" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-25" value="最终模型B确立" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="462" y="2317" width="165" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-26" value="最终模型:&#xa;仅需输入风廓线雷达的实时数据,&#xa;即可输出可靠的湍流强度预测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="416" y="2475" width="256" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-6" target="VtzPuP1h51KJdhY747CV-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-8" target="VtzPuP1h51KJdhY747CV-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-9" target="VtzPuP1h51KJdhY747CV-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-7" target="VtzPuP1h51KJdhY747CV-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=1;entryY=0.17;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-10" target="VtzPuP1h51KJdhY747CV-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="396" y="625" />
+              <mxPoint x="396" y="675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.45;entryY=0;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-11" target="VtzPuP1h51KJdhY747CV-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="237" y="675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-12" target="VtzPuP1h51KJdhY747CV-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-13" target="VtzPuP1h51KJdhY747CV-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-14" target="VtzPuP1h51KJdhY747CV-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-15" target="VtzPuP1h51KJdhY747CV-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-10" target="VtzPuP1h51KJdhY747CV-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="656" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-17" target="VtzPuP1h51KJdhY747CV-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-18" target="VtzPuP1h51KJdhY747CV-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-19" target="VtzPuP1h51KJdhY747CV-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.26;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-20" target="VtzPuP1h51KJdhY747CV-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="656" y="1560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.14;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-16" target="VtzPuP1h51KJdhY747CV-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="247" y="1560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-21" target="VtzPuP1h51KJdhY747CV-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-22" target="VtzPuP1h51KJdhY747CV-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="496" y="1946" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-45" value="结果不理想" style="curved=1;startArrow=none;endArrow=block;exitX=0.11;exitY=1;entryX=0.65;entryY=0;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-23" target="VtzPuP1h51KJdhY747CV-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="2272" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=0;entryX=0;entryY=0.97;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-24" target="VtzPuP1h51KJdhY747CV-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="2272" />
+              <mxPoint x="210" y="1946" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-47" value="结果理想" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-23" target="VtzPuP1h51KJdhY747CV-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="544" y="2272" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtzPuP1h51KJdhY747CV-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VtzPuP1h51KJdhY747CV-25" target="VtzPuP1h51KJdhY747CV-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
