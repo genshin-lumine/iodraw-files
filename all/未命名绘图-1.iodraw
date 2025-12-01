@@ -28,8 +28,8 @@
         <mxCell id="3wvyI16B3_BHBn8VSDEG-29" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.72;dx=25.51;notch=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=north;" vertex="1" parent="1">
           <mxGeometry x="255" y="210" width="30" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3wvyI16B3_BHBn8VSDEG-33" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=5.64;dx=45.06;notch=0;arrowHead=55;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="210" width="100" height="50" as="geometry" />
+        <mxCell id="3wvyI16B3_BHBn8VSDEG-33" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=5.64;dx=45.06;notch=0;arrowHead=29.63;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="210" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
