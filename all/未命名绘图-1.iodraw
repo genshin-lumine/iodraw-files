@@ -25,9 +25,6 @@
         <mxCell id="3wvyI16B3_BHBn8VSDEG-20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.51;dx=38.2;notch=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="198.65" width="70" height="30.1" as="geometry" />
         </mxCell>
-        <mxCell id="3wvyI16B3_BHBn8VSDEG-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="270" width="260" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
