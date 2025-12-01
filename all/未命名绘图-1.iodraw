@@ -7,12 +7,6 @@
         <mxCell id="3wvyI16B3_BHBn8VSDEG-1" value="$\boxed{\quad G=(v,\varepsilon,A,R,\varphi,\psi)}$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3wvyI16B3_BHBn8VSDEG-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13.3px; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;, Cascadia Code, Fira Code, Consolas, Sarasa Mono SC, Microsoft YaHei UI, Courier, monospace&quot;&gt;$$\boxed{\quad G=(v,\varepsilon,A,R,\varphi,\psi)}$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="120" width="270" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3wvyI16B3_BHBn8VSDEG-6" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="250" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
