@@ -49,7 +49,7 @@
         <mxCell id="3wvyI16B3_BHBn8VSDEG-39" value="Three-S" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;fontColor=#000000;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="710" y="160" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3wvyI16B3_BHBn8VSDEG-40" value="Three-S" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="3wvyI16B3_BHBn8VSDEG-40" value="Inter-Group Aggregation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="720" y="360" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3wvyI16B3_BHBn8VSDEG-41" value="Intra-Group Aggregation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
