@@ -7,7 +7,7 @@
         <mxCell id="3wvyI16B3_BHBn8VSDEG-1" value="$\boxed{\quad G=(v,\varepsilon,A,R,\varphi,\psi)}$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3wvyI16B3_BHBn8VSDEG-4" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3wvyI16B3_BHBn8VSDEG-4" value="&lt;span style=&quot;font-family: &amp;quot;&amp;quot;, &amp;quot;Cascadia Code&amp;quot;, &amp;quot;Fira Code&amp;quot;, Consolas, &amp;quot;Sarasa Mono SC&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, Courier, monospace; font-size: 13.3px; text-align: left; white-space-collapse: preserve; background-color: rgb(238, 238, 238);&quot;&gt;这是一个质能方程：$E = mc^2$。&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
