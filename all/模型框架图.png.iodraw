@@ -198,9 +198,9 @@
           <mxGeometry x="620" y="205" width="101.6" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3wvyI16B3_BHBn8VSDEG-107" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;注意力分数矩阵&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="475.8" y="290" width="54.2" height="10" as="geometry" />
+          <mxGeometry x="473.7" y="290" width="54.2" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="3wvyI16B3_BHBn8VSDEG-108" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;MetaPath&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3wvyI16B3_BHBn8VSDEG-108" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;相似度矩阵&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="645.8" y="290" width="50" height="10" as="geometry" />
         </mxCell>
       </root>
