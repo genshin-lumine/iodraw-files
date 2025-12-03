@@ -167,10 +167,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-104" value="自注意力机制" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="321.25" width="90" height="23.75" as="geometry" />
+          <mxGeometry x="170" y="331.25" width="90" height="23.75" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-105" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="550" width="20" height="20" as="geometry" />
+          <mxGeometry x="300" y="335" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
