@@ -112,6 +112,9 @@
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-61" value="G_nodefeature" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VCJ4mcJgEdn-37mnGGcZ-59">
           <mxGeometry x="14.999999999999998" width="59.99999999999999" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-65" target="VCJ4mcJgEdn-37mnGGcZ-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-65" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="520" width="20" height="20" as="geometry" />
         </mxCell>
@@ -122,7 +125,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-70" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
