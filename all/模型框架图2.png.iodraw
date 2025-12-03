@@ -101,16 +101,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-57" value="自注意力机制" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="490" width="80" height="20" as="geometry" />
+          <mxGeometry x="230" y="487.5" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-59" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="80" y="485" width="80" height="25" as="geometry" />
+          <mxGeometry x="80" y="485" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-60" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="VCJ4mcJgEdn-37mnGGcZ-59">
-          <mxGeometry width="80" height="25" as="geometry" />
+          <mxGeometry width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-61" value="G_nodefeature" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VCJ4mcJgEdn-37mnGGcZ-59">
-          <mxGeometry x="13.333333333333332" width="53.33333333333333" height="25" as="geometry" />
+          <mxGeometry x="14.999999999999998" width="59.99999999999999" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
