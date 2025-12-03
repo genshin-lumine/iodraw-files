@@ -24,7 +24,7 @@
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-3" value="&lt;span style=&quot;color: rgb(92, 184, 92); font-family: &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(255, 255, 255);&quot;&gt;节点感知动态交互机制&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="280" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-4" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(174, 214, 241);&quot;&gt;生成多视角邻居信息 H&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; border: 0px solid oklch(0.92 0.004 286.32); margin: 0px; padding: 0px; outline-color: oklab(0.705 0.00415142 -0.0144141 / 0.5); vertical-align: baseline; font-size: 10.5px; line-height: 0; position: relative; bottom: -0.25em; -webkit-tap-highlight-color: transparent; color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;, sans-serif;&quot;&gt;metapath&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-4" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(174, 214, 241);&quot;&gt;生成多视角邻居信息&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="280" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
@@ -34,7 +34,7 @@
           <mxGeometry x="670" y="440" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-12" value="G_nodefeature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="170" width="90" height="30" as="geometry" />
+          <mxGeometry x="420" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-16" value="G_metapath" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="340" width="90" height="30" as="geometry" />
@@ -63,7 +63,7 @@
             <mxPoint x="430" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="VCJ4mcJgEdn-37mnGGcZ-22">
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-12" target="VCJ4mcJgEdn-37mnGGcZ-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480.00000000000045" y="230" as="sourcePoint" />
             <mxPoint x="560.0000000000005" y="280" as="targetPoint" />
