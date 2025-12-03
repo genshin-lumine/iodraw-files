@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-109" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="220" width="280" height="200" as="geometry" />
+          <mxGeometry x="440" y="220" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-107" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="150" y="230" width="180" height="200" as="geometry" />
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-36" value="生成多视角邻居信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="343" y="328.13" width="120" height="30" as="geometry" />
+          <mxGeometry x="340" y="328.13" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-38" value="最终节点表示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="436.25" y="440" width="87.5" height="30" as="geometry" />
