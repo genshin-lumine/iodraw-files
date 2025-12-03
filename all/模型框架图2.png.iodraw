@@ -1,0 +1,113 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="2P9NGH3ysGEirXTg2jk6">
+    <mxGraphModel dx="1302" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="458" y="290" width="300" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="128" y="280" width="300" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-1" target="VCJ4mcJgEdn-37mnGGcZ-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="148" y="460" />
+              <mxPoint x="148" y="350" />
+              <mxPoint x="398" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-1" target="VCJ4mcJgEdn-37mnGGcZ-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="68" y="520" as="sourcePoint" />
+            <mxPoint x="163.00000000000023" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="148" y="460" />
+              <mxPoint x="148" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-1" value="G" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="68" y="445" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-34" target="VCJ4mcJgEdn-37mnGGcZ-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="468" y="480" as="sourcePoint" />
+            <mxPoint x="478.0000000000002" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-12" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="392" y="330" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-16" value="G_metapath" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="198" y="520" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-16" target="VCJ4mcJgEdn-37mnGGcZ-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="288" y="520" as="sourcePoint" />
+            <mxPoint x="343" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="328" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-22" value="个性化融合注意力机制" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="618" y="430" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="VCJ4mcJgEdn-37mnGGcZ-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="568.0000000000002" y="445" as="sourcePoint" />
+            <mxPoint x="538" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-12" target="VCJ4mcJgEdn-37mnGGcZ-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="358" y="660" as="sourcePoint" />
+            <mxPoint x="343" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="338" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-12" target="VCJ4mcJgEdn-37mnGGcZ-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="458.00000000000045" y="380" as="sourcePoint" />
+            <mxPoint x="538.0000000000005" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="568" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-30" value="上下文感知的元路径语义学习" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="173" y="290" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-33" value="G_nodefeature" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="407" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-34" value="节点感知动态交互机制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="277" y="430" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-36" target="VCJ4mcJgEdn-37mnGGcZ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-36" value="生成多视角邻居信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="478" y="430" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-38" value="最终节点表示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="635.5" y="590" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-41" value="个性化多视角信息融合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="503" y="300" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-22" target="VCJ4mcJgEdn-37mnGGcZ-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417" y="455" as="sourcePoint" />
+            <mxPoint x="488" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
