@@ -81,7 +81,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-30" value="上下文感知的元路径语义学习" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="130" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
