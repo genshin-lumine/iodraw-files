@@ -130,8 +130,16 @@
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-75" value="G_metapath" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="500" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-93" target="VCJ4mcJgEdn-37mnGGcZ-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-93" value="MLP" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="288" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="345" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-94" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="500" y="335" width="20" height="20" as="geometry" />
