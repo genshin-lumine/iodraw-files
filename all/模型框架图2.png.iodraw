@@ -101,7 +101,7 @@
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-56" value="G_metapath" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="490" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-57" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-57" value="自注意力机制" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="490" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
