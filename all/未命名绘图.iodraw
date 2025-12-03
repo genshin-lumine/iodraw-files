@@ -29,9 +29,9 @@
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-1" value="G" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="295" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="VCJ4mcJgEdn-37mnGGcZ-4">
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-34" target="VCJ4mcJgEdn-37mnGGcZ-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="429.9999999999998" y="295" as="sourcePoint" />
+            <mxPoint x="490" y="330" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-4" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(174, 214, 241);&quot;&gt;生成多视角邻居信息&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
