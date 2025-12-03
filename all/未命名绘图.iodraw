@@ -41,7 +41,7 @@
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="310" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-12" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeColor=#b85450;labelBackgroundColor=none;labelBorderColor=none;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-12" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="414" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-16" value="G_metapath" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
@@ -85,12 +85,6 @@
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-30" value="上下文感知的元路径语义学习" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="195" y="140" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="180" width="54" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="180" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-33" value="G_nodefeature" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="560" width="60" height="30" as="geometry" />
