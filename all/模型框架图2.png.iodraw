@@ -150,7 +150,7 @@
           <mxGeometry x="500" y="333.13" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-98" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="560" y="313" width="60" height="30" as="geometry" />
+          <mxGeometry x="560" y="328.13" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-99" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="VCJ4mcJgEdn-37mnGGcZ-98">
           <mxGeometry width="60" height="30" as="geometry" />
@@ -165,8 +165,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="420" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="580" y="360" />
-              <mxPoint x="580" y="390" />
+              <mxPoint x="590" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
