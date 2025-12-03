@@ -84,7 +84,7 @@
           <mxGeometry x="340" y="430" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-38" value="最终节点表示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="497.5" y="585" width="95" height="40" as="geometry" />
+          <mxGeometry x="650" y="425" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-41" value="个性化多视角信息融合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="475" y="300" width="130" height="30" as="geometry" />
