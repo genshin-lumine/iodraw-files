@@ -100,6 +100,11 @@
             <mxPoint x="190" y="500.02857142857135" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-57" value="自注意力机制" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="486.25" width="90" height="23.75" as="geometry" />
         </mxCell>
@@ -119,9 +124,6 @@
           <mxGeometry x="200" y="520" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-61" target="VCJ4mcJgEdn-37mnGGcZ-65">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.353;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-57" target="VCJ4mcJgEdn-37mnGGcZ-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-70" value="生成多视角邻居信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
