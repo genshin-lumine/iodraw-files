@@ -47,7 +47,7 @@
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="560" as="sourcePoint" />
-            <mxPoint x="255" y="320" as="targetPoint" />
+            <mxPoint x="220" y="320" as="targetPoint" />
             <Array as="points">
               <mxPoint x="350" y="300" />
             </Array>
@@ -165,6 +165,9 @@
               <mxPoint x="580" y="390" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-104" value="自注意力机制" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="321.25" width="90" height="23.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
