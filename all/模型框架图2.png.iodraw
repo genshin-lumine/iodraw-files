@@ -164,7 +164,7 @@
           <mxGeometry x="10" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-103" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="457" y="423" width="80" height="80" as="geometry" />
+          <mxGeometry x="457" y="423" width="20" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
