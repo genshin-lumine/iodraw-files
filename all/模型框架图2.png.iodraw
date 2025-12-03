@@ -138,13 +138,19 @@
           <mxGeometry x="412" y="470" width="108" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-86" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="421" y="500" width="90" height="30" as="geometry" />
+          <mxGeometry x="421" y="500" width="89" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-87" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="VCJ4mcJgEdn-37mnGGcZ-86">
-          <mxGeometry width="90" height="30" as="geometry" />
+          <mxGeometry width="89" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-88" value="G_nodefeature" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VCJ4mcJgEdn-37mnGGcZ-86">
-          <mxGeometry x="15" width="60" height="30" as="geometry" />
+          <mxGeometry x="14.833333333333334" width="59.333333333333336" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-91" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="500" width="89" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-87" target="VCJ4mcJgEdn-37mnGGcZ-91">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
