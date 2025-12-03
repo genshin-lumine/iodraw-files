@@ -80,7 +80,7 @@
             <mxPoint x="560.0000000000005" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-30" value="上下文感知的元路径语义学习" style="rounded=1;whiteSpace=wrap;html=1;textOpacity=0;" vertex="1" parent="1">
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-30" value="上下文感知的元路径语义学习" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="195" y="140" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
