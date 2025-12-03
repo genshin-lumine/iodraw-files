@@ -70,7 +70,7 @@
             <mxPoint x="492" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-36">
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-36" target="VCJ4mcJgEdn-37mnGGcZ-103">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="420" as="targetPoint" />
           </mxGeometry>
@@ -155,16 +155,16 @@
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-99" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="VCJ4mcJgEdn-37mnGGcZ-98">
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VCJ4mcJgEdn-37mnGGcZ-98" source="VCJ4mcJgEdn-37mnGGcZ-100">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-40" y="90" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-100" value="softmax" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VCJ4mcJgEdn-37mnGGcZ-98">
           <mxGeometry x="10" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-103" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="420" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-100" target="VCJ4mcJgEdn-37mnGGcZ-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
