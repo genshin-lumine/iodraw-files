@@ -53,10 +53,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-12">
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470.00000000000045" y="280" as="sourcePoint" />
-            <mxPoint x="557" y="330" as="targetPoint" />
+            <mxPoint x="520" y="300" as="targetPoint" />
             <Array as="points">
               <mxPoint x="580" y="300" />
             </Array>
@@ -129,6 +129,9 @@
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-75" value="G_metapath" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-93" value="G_metapath" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
