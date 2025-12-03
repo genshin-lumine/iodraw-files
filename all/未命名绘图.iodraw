@@ -101,7 +101,7 @@
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-38" value="最终节点表示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="667.5" y="410" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-41" value="上下文感知的元路径语义学习" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-41" value="个性化多视角信息融合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="525" y="150" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
