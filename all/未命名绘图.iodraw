@@ -10,12 +10,6 @@
             <mxPoint x="470.0000000000002" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="390" as="sourcePoint" />
-            <mxPoint x="470" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-1" target="VCJ4mcJgEdn-37mnGGcZ-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
