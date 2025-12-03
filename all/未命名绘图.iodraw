@@ -22,7 +22,7 @@
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-3" target="VCJ4mcJgEdn-37mnGGcZ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-3" value="&lt;span style=&quot;color: rgb(92, 184, 92); font-family: &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(255, 255, 255);&quot;&gt;层1: 上下文感知的元路径语义学习&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-3" value="&lt;span style=&quot;color: rgb(92, 184, 92); font-family: &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(255, 255, 255);&quot;&gt;节点感知动态交互机制&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-4" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(174, 214, 241);&quot;&gt;生成多视角邻居信息 H&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; border: 0px solid oklch(0.92 0.004 286.32); margin: 0px; padding: 0px; outline-color: oklab(0.705 0.00415142 -0.0144141 / 0.5); vertical-align: baseline; font-size: 10.5px; line-height: 0; position: relative; bottom: -0.25em; -webkit-tap-highlight-color: transparent; color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;, sans-serif;&quot;&gt;metapath&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -60,9 +60,12 @@
             <mxPoint x="280" y="290" as="sourcePoint" />
             <mxPoint x="390" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="290" />
+              <mxPoint x="330" y="280" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
