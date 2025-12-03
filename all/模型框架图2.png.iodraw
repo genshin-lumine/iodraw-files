@@ -70,6 +70,11 @@
             <mxPoint x="492" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VCJ4mcJgEdn-37mnGGcZ-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-36" value="生成多视角邻居信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="352" y="330" width="120" height="30" as="geometry" />
         </mxCell>
