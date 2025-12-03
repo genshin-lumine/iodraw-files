@@ -107,8 +107,8 @@
             <mxPoint x="510" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-45" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="410" width="470" height="340" as="geometry" />
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-46" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="219" y="570" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
