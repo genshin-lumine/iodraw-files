@@ -95,11 +95,8 @@
         <mxCell id="VCJ4mcJgEdn-37mnGGcZ-51" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="560" width="760" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.019;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="560" as="sourcePoint" />
-            <mxPoint x="400" y="567.03" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="VCJ4mcJgEdn-37mnGGcZ-54" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="590" width="10" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
